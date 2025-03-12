@@ -1,82 +1,81 @@
-## Hi there 👋
-Hi there! 👋 I'm Marthin Mandig
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://media.tenor.com/2PfdNQd5z2wAAAAC/cute-banner.gif" width="600">
+</p>
 
-📊 About Me
+# 🌸 **Marthin Mandig** | *Coding, Data & Health Informatics* 💻🏥  
 
-I'm a Public Health and Data Science Enthusiast with a passion for health informatics, clinical databases, and research. I have experience in epidemiology, bioinformatics, and software development, focusing on data-driven decision-making in healthcare.
+<p align="center">
+  <img src="https://media.tenor.com/XqCih2Z_CpQAAAAC/kawaii-cute.gif" width="150">
+</p>
 
-🎓 Education
+🌟 Hi there! I'm **Marthin**, a **public health + informatics & data science** student who loves coding to solve real-world problems! 🚀  
+My work focuses on **bioinformatics, database management, and software development** for research and healthcare. 🏥✨  
 
-🎓 University of Washington
+---
 
-Bachelor of Arts in Honors Public Health
+## 🎀 **Tech & Skills**  
+💾 **Languages:** Python 🐍 | R 📊 | SQL 🗄 | JavaScript ⚡  
+📊 **Data Science & Viz:** ggplot2 | Tableau | Power BI  
+🛠 **Database Management:** SQL (PostgreSQL, MySQL)  
+🖥 **Software Development:** R Shiny, Data Dashboards, Automation Scripts  
 
-Minor in Informatics & Data Science
+---
 
-Expected Graduation: June 2025
+## 🌟 **Projects & Experience**  
 
-💼 Experience
+### 🧬 **Bioinformatics & Software Developer Intern @ Fred Hutchinson Cancer Center**  
+- 🏥 Developed a **software database** for analyzing **HIV-1 envelope protein** variability 🦠  
+- 🤖 Automated **data pipelines** for biological sequence analysis  
+- 📊 Used **R & Python** to process large datasets  
 
-🔬 Research & Data Analysis
+### 📊 **Research Study Assistant @ Uplift Northwest**  
+- 📌 Performed **data cleaning & visualization** for workforce development research  
+- 🔍 Developed **SQL queries** to analyze program data  
+- 📊 Built interactive dashboards to display insights  
 
-Bioinformatics & Software Developer Intern @ Fred Hutchinson Cancer Center
+### 🏥 **Clinical Research Intern @ Seattle Children's Research Institute**  
+- ✨ Assisted in **data collection and coding** for health outcomes research  
+- 💡 Created **Python scripts** to automate data reporting  
 
-Developed a software database to analyze HIV-1 envelope protein amino acid variability.
+---
 
-Conducted sequence alignments and data visualization for HIV research.
+## 💌 **Let's Connect!**  
 
-Research Study Assistant @ Uplift Northwest
+<p align="center">
+  <a href="https://www.linkedin.com/in/marthinmandig">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-Explore-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
-Analyzed withdrawal rates in AYA childhood cancer survivors focusing on race/ethnicity disparities.
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/cat-computer.gif" width="200">
+</p>
 
-Applied statistical analysis and data visualization to study intervention effectiveness.
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/marthinmandig">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-Explore-black?style=for-the-badge&logo=github">
+  </a>
 
-💻 Data & Software Development
+  <!-- Personal Website (If applicable) -->
+  <a href="https://sites.google.com/uw.edu/marthinmandig/home">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-pink?style=for-the-badge&logo=smugmug">
+  </a>
+</p>
 
-Clinical Research Intern @ Seattle Children's Research Institute
+<!-- Cute Cat GIF -->
+<p align="center">
+  <img src="https://media.tenor.com/LbSIs-TdIOAAAAAC/cat-cute.gif" width="200">
+</p>
 
-Extracted and analyzed clinical databases to support research projects.
+---
 
-Created data visualizations and reports for research publications.
-
-Marketing & Outreach
-
-Campus Brand Ambassador @ Wasserman Next Gen
-
-Desk Attendant @ University of Washington Housing & Food Services
-
-🛠️ Technical Skills
-
-Programming & Data Science: Python, R, SQL
-
-Bioinformatics: Sequence alignment, data visualization
-
-Database Management: SQL, clinical databases, EHR systems
-
-Public Health Research: Epidemiology, biostatistics, health informatics
-
-🚀 Projects
-
-HIV-1 Protein Analysis Database – Developed a software tool for analyzing HIV sequence variability.
-
-Life Expectancy Trends – Analyzed changes in global life expectancy using R and dplyr.
-
-Clinical Withdrawal Study – Investigated race/ethnicity disparities in a cancer survivor intervention trial.
-
-📫 Connect with Me
-
-✉️ Email: marthinmandig@example.com
-<!--
-**MarthinMandig/MarthinMandig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
